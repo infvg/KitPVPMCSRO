@@ -1,0 +1,6 @@
+name: KitPVP
+version: 1.0.0
+main: net.mcsro.kitpvp.KitPVP
+depend: [SRUtils]
+author: OliAE / InfIV
+commands
